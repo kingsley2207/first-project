@@ -5,7 +5,7 @@
 ESP8266WebServer webServer(80);
 
 char* ssid = "536 Au Co";
-char* pass = "12345679";
+char* pass = "xxxxxxxx";
 
 //=========Biến chứa mã HTLM Website==//
 String mainPage ={
